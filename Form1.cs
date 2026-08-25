@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Blue_Arrow
 {
-    public partial class Form1 : Form
+    public partial class GUI_Form : Form
     {
-        public Form1()
+        public GUI_Form()
         {
             InitializeComponent();
         }
